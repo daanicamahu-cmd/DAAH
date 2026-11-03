@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DAAH</string>
+    <string name="calc_zero" translatable="false">0</string>
+    <string name="calc_one" translatable="false">1</string>
+    <string name="calc_two" translatable="false">2</string>
+    <string name="calc_three" translatable="false">3</string>
+    <string name="calc_four" translatable="false">4</string>
+    <string name="calc_five" translatable="false">5</string>
+    <string name="calc_six" translatable="false">6</string>
+    <string name="calc_seven" translatable="false">7</string>
+    <string name="calc_eight" translatable="false">8</string>
+    <string name="calc_nine" translatable="false">9</string>
+    <string name="calc_dot" translatable="false">.</string>
+    <string name="calc_equals" translatable="false">=</string>
+    <string name="calc_add" translatable="false">+</string>
+    <string name="calc_subtract" translatable="false">−</string>
+    <string name="calc_multiply" translatable="false">×</string>
+    <string name="calc_divide" translatable="false">÷</string>
+    <string name="calc_percent" translatable="false">%</string>
+    <string name="calc_clear" translatable="false">C</string>
+    <string name="calc_delete" translatable="false">⌫</string>
+    <string name="calc_sqrt" translatable="false">√</string>
+    <string name="calc_square" translatable="false">x²</string>
+    <string name="calc_reciprocal" translatable="false">1/x</string>
+    <string name="calc_sign" translatable="false">±</string>
+</resources>
